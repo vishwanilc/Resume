@@ -1,0 +1,321 @@
+{
+    "basics": {
+        "name": "Vishwanil Chakraborty",
+        "email": "vishwanilchakraborty@yahoo.com",
+        "phone": "+917011562059",
+        "photo": {
+            "url": "",
+            "filters": {
+                "size": 128,
+                "shape": "square",
+                "border": false,
+                "grayscale": false
+            },
+            "visible": true
+        },
+        "summary": "Highly skilled and motivated Investment Banker with 8 years of experience as a Deputy Branch Manager at Indian Overseas Bank. Proven expertise in investment banking operations, financial analysis, and risk management. Seeking to leverage my skills and certifications to excel in a challenging role at an MNC bank.",
+        "website": "",
+        "headline": "Investment Banker",
+        "location": {
+            "city": "Ghaziabad",
+            "region": "Uttar Pradesh",
+            "address": "33 D Radhey Shyam Park Kaveri Apartments Flat no 9 Sahibabad",
+            "country": "India",
+            "postalCode": "201005"
+        },
+        "profiles": [
+            {
+                "id": "60b5aaf4-df2d-450f-a81f-fb8cd5066713",
+                "url": "https://www.linkedin.com/in/vishwanilchakraborty/",
+                "network": "LinkedIn",
+                "username": "vishwanilchakraborty"
+            },
+            {
+                "id": "fbc48214-950b-48b8-a492-affb61f3f81d",
+                "url": "https://github.com/vishwanil",
+                "network": "GitHub",
+                "username": "vishwanil"
+            }
+        ],
+        "birthdate": "1990-03-06"
+    },
+    "sections": {
+        "work": {
+            "id": "work",
+            "name": "Work Experience",
+            "type": "work",
+            "items": [
+                {
+                    "name": "Indian Overseas Bank",
+                    "position": "Assistant manager",
+                    "date": {
+                        "start": "2015-08-13",
+                        "end": ""
+                    },
+                    "url": "https://www.iob.in",
+                    "summary": "**Investment Advisory**: Provided expert financial advice to clients, offering tailored investment strategies to maximize portfolio returns and achieve their financial goals.\n\n**Financial Analysis**: Conducted comprehensive financial analysis, evaluated market trends, and identified lucrative investment opportunities to make informed and profitable decisions.\n\n**Risk Management**: Implemented robust risk management measures, ensuring compliance with regulatory guidelines and safeguarding clients' investments from potential market risks.\n\n**Branch Operations Optimization**: Streamlined branch operations to enhance efficiency and customer satisfaction, facilitating seamless banking services for investment clients.\n\n**Team Leadership**: Supervised and motivated the branch team, fostering a collaborative work environment conducive to excellence and innovation in investment banking.",
+                    "id": "2713f8a7-e412-49b3-9f68-8607c675c910"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "awards": {
+            "id": "awards",
+            "name": "Awards",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "skills": {
+            "id": "skills",
+            "name": "Skills",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "368085cd-9c3a-4d37-8b0e-2b7014c328e8",
+                    "name": "Investment Banking",
+                    "level": "Expert",
+                    "keywords": [
+                        "Financial Analysis",
+                        "Risk Management",
+                        "Portfolio Management",
+                        "Investment Strategies"
+                    ],
+                    "levelNum": 5
+                },
+                {
+                    "id": "9cc45b57-512c-4303-a22a-e904a27490e0",
+                    "name": "Banking Operations",
+                    "level": "Advanced",
+                    "keywords": [
+                        "Customer Service",
+                        "Cash Handling",
+                        "Account Management"
+                    ],
+                    "levelNum": 5
+                },
+                {
+                    "id": "1cb58277-f6e6-4219-8d8b-73cf5cad87a9",
+                    "name": "Leadership",
+                    "level": "Advanced",
+                    "keywords": [
+                        "Team Management",
+                        "Motivation",
+                        "Communication"
+                    ],
+                    "levelNum": 5
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "projects": {
+            "id": "projects",
+            "name": "Projects",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "education": {
+            "id": "education",
+            "name": "Education",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "a717f7a1-5b36-465b-87a9-d2f59a7f490b",
+                    "area": "B.tech Electrical and Electronics",
+                    "date": {
+                        "end": "2012-07-05",
+                        "start": "2008-05-01"
+                    },
+                    "degree": "Bachelor's",
+                    "courses": [],
+                    "institution": "Gautam Buddha University"
+                },
+                {
+                    "institution": "CBSE",
+                    "degree": "CLASS XII",
+                    "area": "PCMC",
+                    "score": "",
+                    "date": {
+                        "start": "2006-04-01",
+                        "end": "2007-05-01"
+                    },
+                    "url": "",
+                    "summary": "",
+                    "courses": [],
+                    "id": "97f5e5ba-5fcd-4e31-b2aa-c5854fae6b91"
+                },
+                {
+                    "institution": "CBSE",
+                    "degree": "CLASS X",
+                    "area": "",
+                    "score": "",
+                    "date": {
+                        "start": "2004-04-01",
+                        "end": "2005-06-01"
+                    },
+                    "url": "",
+                    "summary": "",
+                    "courses": [],
+                    "id": "792b82de-55e1-4d41-b1fd-63de403736a9"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "interests": {
+            "id": "interests",
+            "name": "Interests",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "5eee87d2-a4cc-4f0f-acd9-c8b878ccb0a8",
+                    "name": "Investing",
+                    "keywords": [
+                        "Stock Market",
+                        "Real Estate"
+                    ]
+                },
+                {
+                    "id": "1e9156c4-a0d2-4ed8-96d6-aca3ef01ce3b",
+                    "name": "Traveling",
+                    "keywords": [
+                        "Exploring New Cultures",
+                        "Adventure"
+                    ]
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "languages": {
+            "id": "languages",
+            "name": "Languages",
+            "type": "basic",
+            "items": [
+                {
+                    "id": "d5d51589-ec94-474e-9834-faefd02ac801",
+                    "name": "English",
+                    "level": "Native",
+                    "levelNum": 5
+                },
+                {
+                    "name": "Hindi",
+                    "level": "EXPERT",
+                    "levelNum": 9,
+                    "id": "caae96f0-3907-420f-ab78-19cac5b70a1c"
+                },
+                {
+                    "name": "Bangla",
+                    "level": "Mother Tounge",
+                    "levelNum": 6,
+                    "id": "8d2600bc-c5ca-4cf8-b6bf-67684848d075"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        },
+        "volunteer": {
+            "id": "volunteer",
+            "name": "Volunteer Experience",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "references": {
+            "id": "references",
+            "name": "References",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "publications": {
+            "id": "publications",
+            "name": "Publications",
+            "type": "basic",
+            "items": [],
+            "columns": 2,
+            "visible": true
+        },
+        "certifications": {
+            "id": "certifications",
+            "name": "Certifications",
+            "type": "basic",
+            "items": [
+                {
+                    "name": "JAIIB",
+                    "issuer": "IIBF",
+                    "date": "2018-06-26",
+                    "url": "https://www.iib.org.in",
+                    "summary": "Junior Associate of Indian Institute of Bankers\n",
+                    "id": "18eff670-8aed-4eda-a949-1c56ac48185f"
+                },
+                {
+                    "name": "CAIIB",
+                    "issuer": "IIBF",
+                    "date": "2019-01-04",
+                    "url": "https://www.iib.org.in",
+                    "summary": "Certified Associate of Indian Institute of Bankers",
+                    "id": "14f366cd-383c-43cb-8287-2ab2c8c727eb"
+                }
+            ],
+            "columns": 2,
+            "visible": true
+        }
+    },
+    "metadata": {
+        "css": {
+            "value": "/* Enter custom CSS here */\n\n* {\n    outline: 1px solid #000;\n}",
+            "visible": false
+        },
+        "date": {
+            "format": "MMMM DD, YYYY"
+        },
+        "page": {
+            "format": "A4"
+        },
+        "theme": {
+            "text": "#000000",
+            "primary": "#3f51b5",
+            "background": "#ffffff"
+        },
+        "layout": [
+            [
+                [
+                    "work",
+                    "education",
+                    "projects",
+                    "volunteer",
+                    "references"
+                ],
+                [
+                    "skills",
+                    "interests",
+                    "languages",
+                    "awards",
+                    "certifications",
+                    "publications"
+                ]
+            ]
+        ],
+        "locale": "en",
+        "template": "castform",
+        "typography": {
+            "size": {
+                "body": 14,
+                "heading": 28
+            },
+            "family": {
+                "body": "Open Sans",
+                "heading": "Open Sans"
+            }
+        }
+    },
+    "public": true
+}
